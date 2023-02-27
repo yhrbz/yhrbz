@@ -3,7 +3,7 @@ Oi meu nome é Yuri Horbacz ![](https://user-images.githubusercontent.com/183505
 🖥️ Veja meu portfólio na [Behsoma](http://www.google.com)[](http://www.google.com) *<br>
 ✉️ Você pode entrar em contato comigo em [yuricellpc@gmail.com](mailto:yuricellpc@gmail.com)[](mailto:yuricellpc@gmail.com) *<br>
 🧠 Estou aprendendo HTML | JavaScript | CSS *<br>
-⚡ Adoro assistir Bob Esponja Calça Quadrada<br>
+⚡ Adoro assistir Bob Esponja Calça Quadrada *<br>
 
 <a href="https://www.github.com/yhrbz_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/yhrbz_?logo =github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
