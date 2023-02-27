@@ -1,4 +1,9 @@
-Oi meu nome é Yuri Horbacz ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) ============ ==================================================== ==================================================== ===================== Desenvolvedor e Designer Web ------------------------- --- * 🌍 Moro em Mallet - PR * 🖥️ Veja meu portfólio na [Behsoma](http://www.google.com)[](http://www.google.com) * ✉️ Você pode entrar em contato comigo em [yuricellpc@gmail.com](mailto:yuricellpc@gmail.com)[](mailto:yuricellpc@gmail.com) * 🧠 Estou aprendendo HTML | JavaScript | CSS * ⚡ Adoro assistir Bob Esponja Calça Quadrada
+Oi meu nome é Yuri Horbacz ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+🌍 Moro em Mallet - PR * 
+🖥️ Veja meu portfólio na [Behsoma](http://www.google.com)[](http://www.google.com) * 
+✉️ Você pode entrar em contato comigo em [yuricellpc@gmail.com](mailto:yuricellpc@gmail.com)[](mailto:yuricellpc@gmail.com) * 
+🧠 Estou aprendendo HTML | JavaScript | CSS * 
+⚡ Adoro assistir Bob Esponja Calça Quadrada
 
 <a href="https://www.github.com/yhrbz_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/yhrbz_?logo =github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
